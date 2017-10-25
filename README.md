@@ -6,7 +6,7 @@ Simple script to remove merged branches in git.
 
 ```
 $ cp ./removeMerged /usr/local/bin/removeMerged
-$ chmod +x /usr/loacl/bin/removeMerged
+$ chmod +x /usr/local/bin/removeMerged
 ```
 
 # Run
