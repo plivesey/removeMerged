@@ -4,8 +4,10 @@ Simple script to remove merged branches in git.
 
 # Install
 
+```
 $ cp ./removeMerged /usr/local/bin/removeMerged
 $ chmod +x /usr/loacl/bin/removeMerged
+```
 
 # Run
 
