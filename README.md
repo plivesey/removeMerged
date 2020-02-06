@@ -5,14 +5,14 @@ Simple script to remove merged branches in git.
 # Install
 
 ```
-$ cp ./removeMerged /usr/local/bin/removeMerged
-$ chmod +x /usr/local/bin/removeMerged
+$ cp ./git-removeMerged /usr/local/bin/git-removeMerged
+$ chmod +x /usr/local/bin/git-removeMerged
 ```
 
 # Run
 
 ```
-$ removeMerged
+$ git removeMerged
 Deleted branch attachmentImg (was 2fb6d9b9).
 Deleted branch composeHeight (was db8cdf1d).
 Deleted branch fasterAttach (was c159e586).
